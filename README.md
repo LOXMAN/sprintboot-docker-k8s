@@ -10,8 +10,8 @@ Run it, and browser to [http://localhost:8080/swagger-ui.html](http://localhost:
 
 ## Preparation
 Please preparation in your environment as below:
-1. [Java JDK 20]()
-2. [Gradle]()
+1. [Java JDK 20](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html)
+2. [Gradle](https://gradle.org)
 3. [Docker](https://docs.docker.com/get-started/overview/)
 4. [Kubernetes](https://docs.docker.com/desktop/kubernetes/)
 
